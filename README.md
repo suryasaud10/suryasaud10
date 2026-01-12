@@ -12,8 +12,7 @@ I am a full-stack developer focused on building production-ready applications us
 ![](https://nirzak-streak-stats.vercel.app/?user=suryasaud10&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suryasaud10&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=suryasaud10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 “Programming isn’t about what you know; it’s about what you can figure out.”
