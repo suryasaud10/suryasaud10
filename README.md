@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full-stack developer focused on building production-ready applications using React and Django. I am learning Django REST Framework, PostgreSQL optimization, and modern deployment practices. Open to collaboration on open-source and startup projects. You can ask me about React, Django, REST APIs, and Git/GitHub.
+I am a full-stack developer focused on building production-ready applications using React and Django. I am learning Django REST Framework, PostgreSQL optimization, and modern deployment practices. Open to collaboration on open-source and startup projects.
 
 
 ## 🌐 Socials:
